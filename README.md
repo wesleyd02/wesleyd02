@@ -29,7 +29,7 @@ const aboutMe = {
     workingOn: "Upskilling",
     lookingFor: "New full-time opportunities",
     socials: {
-        linkedin: "[https://www.linkedin.com/in/wesley-dam](https://www.linkedin.com/in/wesley-dam-428b77223/)",
+        linkedin: "https://www.linkedin.com/in/wesley-dam-428b77223/",
         email: "damwesley02@gmail.com",
     },
 };
