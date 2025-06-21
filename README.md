@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const aboutMe = {
+    name: {
+        first: "Wesley",
+        last: "Dam",
+        pronouns: "he/him",
+    },
+    education: "M.S. Information Security @ Cal Poly Pomona",
+    experience: {
+        current: "AI/ML Developer Intern @ AFRL Sensors Directorate",
+    },
+    workingOn: "Upskilling",
+    lookingFor: "New full-time opportunities",
+    socials: {
+        linkedin: "[https://www.linkedin.com/in/wesley-dam](https://www.linkedin.com/in/wesley-dam-428b77223/)",
+        email: "damwesley02@gmail.com",
+    },
+};
