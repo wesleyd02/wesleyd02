@@ -23,6 +23,7 @@ const aboutMe = {
         pronouns: "he/him",
     },
     education: "M.S. Information Security @ Cal Poly Pomona",
+               "B.S. Computer Science @ Cal Poly Pomona",
     experience: {
         current: "IT Helpdesk Tech @ PennAero",
         prev: "AI/ML Engineer Intern @ AFRL Sensors Directorate",
