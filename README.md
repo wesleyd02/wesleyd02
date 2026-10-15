@@ -24,7 +24,8 @@ const aboutMe = {
     },
     education: "M.S. Information Security @ Cal Poly Pomona",
     experience: {
-        current: "AI/ML Engineer Intern @ AFRL Sensors Directorate",
+        current: "IT Helpdesk Tech @ PennAero",
+        prev: "AI/ML Engineer Intern @ AFRL Sensors Directorate",
     },
     workingOn: "Upskilling",
     lookingFor: "New full-time opportunities",
